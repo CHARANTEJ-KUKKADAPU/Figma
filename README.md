@@ -76,6 +76,6 @@ code for ss 4:
 ```
 
 ## OUTPUT:
-![alt text](SS1.png) ![alt text](SS4-1.png) ![alt text](SS3-1.png) ![alt text](SS2-1.png)
+![alt text](SS1-1.png) ![alt text](SS2-1.png) ![alt text](SS3-1.png) ![alt text](SS4-1.png)
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
